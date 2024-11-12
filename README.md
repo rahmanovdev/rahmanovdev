@@ -59,13 +59,11 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=threejs" width="43" height="43" alt="Three.js" />
       <br>Three.js
     </td>
   </tr>
-
   <tr>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
@@ -77,7 +75,6 @@
       </a>
       <br>Prisma
     </td>
-
       <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=babel" width="43" height="43" alt="Babel" />
       <br>Babel
@@ -95,7 +92,6 @@
       <br>Redux
     </td>
   </tr>
-
   <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
@@ -105,7 +101,6 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
       <br>Firebase
     </td>
-   
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
       <br>Docker
