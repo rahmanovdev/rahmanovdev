@@ -49,7 +49,7 @@
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Tailwind" />
-      <br>Tailwind CSS
+      <br>Tailwind 
     </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
@@ -115,18 +115,18 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{rahmanovdev}/count.svg" alt="yntymakdev :: Visitor's Count" /></p>
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=yntymakdev&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=rahmanovdev&data=followers,repositories,stars,commits' />
 </p>
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanovdev&langs_count=10&theme=merko&layout=compact" width="400px" height="216px" alt="yntymakdev :: Top Langs" />
-<a href="https://github.com/yntymakdev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yntymakdev&theme=gitdimmed&no-frame=true&column=3&row=2"  width="400px" alt="@yntymakdev's trophy stats"/></a>
+<a href="https://github.com/yntymakdev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rahmanovdev&theme=gitdimmed&no-frame=true&column=3&row=2"  width="400px" alt="@rahmanovdev's trophy stats"/></a>
 </p>
 
 <p align="center">
 
-<a href="https://github.com/yntymakdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yntymakdev&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="500px" alt="@yntymakdev's github-readme-stats"/></a>
-<a href="https://github.com/yntymakdev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yntymakdev&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="500px" alt="@yntymakdev's github-readme-streak-stats"/></a>
+<a href="https://github.com/yntymakdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rahmanovdev&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="500px" alt="@yntymakdev's github-readme-stats"/></a>
+<a href="https://github.com/yntymakdev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanovdev&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="500px" alt="@rahmanovdev's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -156,12 +156,12 @@
 ## 🔖 My contacts
 
 <div class="contacts">
-  <a href="https://wa.me/996709826628"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/ynty_io"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/ynty.1"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
+  <a href="https://wa.me/996700188251"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://t.me/jumadil"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="https://www.instagram.com/jumadil_kgz"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
 <!--   <a href="https://vk.com/elcho_effects"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a> -->
-  <a href="https://youtube.com/@ynty.1?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
-  <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+  <a href="https://youtube.com/@jumadil?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+  <a href="https://www.facebook.com/Jumadil"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
 </div>
 <br>
 <br>
