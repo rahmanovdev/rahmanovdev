@@ -161,8 +161,7 @@
   <a href="https://www.instagram.com/jumadil__kgz"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
   <a href="https://youtube.com/@jumadil?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
   <a href="https://www.facebook.com/Jumadil"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
-  <a href="https://www.linkedin.com/in/Jumadil Rahmonov
-"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
+  <a href="https://www.linkedin.com/in/jumadil-rahmonov-8a5171300/"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
 </div>
 <br>
 <br>
