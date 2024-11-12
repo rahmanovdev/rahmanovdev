@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/rahmanovdev">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Jumadil;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Jumadil;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=aqua,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
 </a>    
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/yntymakdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yntymakdev&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="400px" alt="@yntymakdev's github-readme-stats"/></a>
-    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yntymakdev&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="400px" alt="@RJ's github-readme-streak-stats"/></a>
+    <a href="https://github.com/rahmanovdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rahmanovdev&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="400px" alt="@rahmanovdev's github-readme-stats"/></a>
+    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=rahmanovdev&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="400px" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 <p align="center">
