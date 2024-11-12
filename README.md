@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=rahmanovdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanovdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=yntymakdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yntymakdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=rahmanovdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanovdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanovdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
  -->
 ###
@@ -59,10 +59,7 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=babel" width="43" height="43" alt="Babel" />
-      <br>Babel
-    </td>
+  
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=threejs" width="43" height="43" alt="Three.js" />
       <br>Three.js
@@ -80,6 +77,11 @@
       </a>
       <br>Prisma
     </td>
+
+      <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=babel" width="43" height="43" alt="Babel" />
+      <br>Babel
+    </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
       <br>TypeScript
@@ -96,10 +98,6 @@
 
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
-      <br>Nest
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
       <br>Next.js
     </td>
@@ -107,10 +105,7 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
+   
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
       <br>Docker
@@ -122,14 +117,14 @@
 
 ##<h2>Github stats: </h2>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yntymakdev}/count.svg" alt="yntymakdev :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rahmanovdev}/count.svg" alt="yntymakdev :: Visitor's Count" /></p>
 
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=yntymakdev&data=followers,repositories,stars,commits' />
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=10&theme=merko&layout=compact" width="400px" height="216px" alt="yntymakdev :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanovdev&langs_count=10&theme=merko&layout=compact" width="400px" height="216px" alt="yntymakdev :: Top Langs" />
 <a href="https://github.com/yntymakdev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yntymakdev&theme=gitdimmed&no-frame=true&column=3&row=2"  width="400px" alt="@yntymakdev's trophy stats"/></a>
 </p>
 
