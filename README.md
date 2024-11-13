@@ -9,7 +9,7 @@
 </div>
 
 ## Skills
-<p align="center">
+<p align="start">
 <table align="center">
   <tr>
     <td align="center" width="80">
