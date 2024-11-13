@@ -105,14 +105,24 @@
   Краткое описание третьего проекта.
 </div>
 
-## Контакты
+## 📫 Contact Me
 
-<div style="animation: fadeIn 2s ease-out 1.5s;">
-  <ul style="list-style-type: none; padding: 0;">
-    <li><strong>Email:</strong> your-email@example.com</li>
-    <li><strong>Telegram:</strong> [@yourusername](https://t.me/yourusername)</li>
-    <li><strong>LinkedIn:</strong> [Жумадил Рахмонов](https://linkedin.com/in/yourusername)</li>
-  </ul>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <a href="https://linkedin.com/in/ваш-профиль" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a> -
+  <a href="https://github.codevAlen01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a> -
+  <a href="https://wa.me/+996700067684" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a> -
+  <a href="https://t.me/alenx10" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a> -
+  <a href="https://www.instagram.com/x.seven___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
 </div>
 
 ---
