@@ -8,7 +8,7 @@
 
 </div>
 
-## Мои навыки
+## Skills
 <p align="center">
 <table align="center">
   <tr>
@@ -88,7 +88,7 @@
 </table>
 </p>
 
-## Проекты
+## Projects
 
 ### 1. [Проект 1](https://github.com/your-username/project1)
 <div style="animation: fadeIn 2s ease-out;">
