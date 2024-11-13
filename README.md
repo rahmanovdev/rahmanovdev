@@ -108,19 +108,19 @@
 ## 📫 Contact Me
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <a href="https://linkedin.com/in/ваш-профиль" target="_blank">
+  <a href="https://linkedin.com/in/Jumadil Rahmonov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> -
-  <a href="https://github.codevAlen01" target="_blank">
+  <a href="https://github.rahmanovdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" alt="GitHub">
   </a> -
-  <a href="https://wa.me/+996700067684" target="_blank">
+  <a href="https://wa.me/+996700188251" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a> -
-  <a href="https://t.me/alenx10" target="_blank">
+  <a href="https://t.me/jumadil" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
   </a> -
-  <a href="https://www.instagram.com/x.seven___/" target="_blank">
+  <a href="https://www.instagram.com/jumadil__kgz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
 </div>
