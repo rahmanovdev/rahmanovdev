@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Tailwind" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
@@ -73,20 +73,12 @@
 
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
-      <br>Nest
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
       <br>Firebase
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
-      <br>PostgreSQL
     </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
