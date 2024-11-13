@@ -1,5 +1,9 @@
 # Привет! Я Жумадил Рахмонов
 
+<a href="https://github.com/Elkhan2003">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Jumadil;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+</a>
+
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
   Я начинающий фронтенд-разработчик из Кыргызстана. Стремлюсь стать одним из лучших программистов не только в своей стране, но и в мире.
 </div>
