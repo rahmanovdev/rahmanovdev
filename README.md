@@ -127,8 +127,8 @@
 
 ---
 
-<div style="animation: fadeIn 2s ease-out 2s;">
-  Буду рад новым контактам и проектам!
+<div style="animation: fadeIn 2s ease-out;">
+  I would be happy to connect and collaborate on new projects!
 </div>
 
 <style>
@@ -140,4 +140,5 @@
       opacity: 1;
     }
   }
-</style>  
+</style>
+ 
