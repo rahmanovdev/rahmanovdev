@@ -5,7 +5,9 @@
 </a>
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
-  Я начинающий фронтенд-разработчик из Кыргызстана. Стремлюсь стать одним из лучших программистов не только в своей стране, но и в мире.
+ I am a Frontend Developer specializing in building high-quality, responsive websites using React.js and Next.js. With expertise in state management (RTK) and modern styling techniques (SCSS), I create user-friendly and visually appealing websites. My focus is on delivering scalable, efficient solutions that enhance the user experience.
+
+
 </div>
 
 ## Мои навыки
